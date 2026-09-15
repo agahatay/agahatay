@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Agah 👋
 
-<!--
-**agahatay/agahatay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Developer  
+🎓 Computer Engineering Graduate
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C# / .NET / ASP.NET Core
+- Web API / Entity Framework Core
+- SQL Server / MySQL
+- React / JavaScript
+- Git / GitHub
+
+### Featured Project
+
+🏥 **Hospital Appointment System**  
+Full-stack appointment management system built with React, Node.js, Express.js and MySQL.
+
+[View Project](https://github.com/agahatay/medportal-hospital-system)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: **www.linkedin.com/in/agah-atay**
+- 📧 Email: **agah0270@gmail.com**
